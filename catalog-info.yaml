@@ -4,6 +4,7 @@ metadata:
   name: infra-test
   annotations:
     github.com/project-slug: Xantier/infra-test
+    github.com/project-readme-path: Xantier/infra-test/README.md
 spec:
   type: other
   lifecycle: unknown
