@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: infra-test
+  annotations:
+    github.com/project-slug: Xantier/infra-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guest
